@@ -1,9 +1,9 @@
 class Sag < Formula
   desc "Smart AI Gateway"
   homepage "https://github.com/rainbowatcher/sag"
-  url "https://github.com/rainbowatcher/sag/releases/download/v0.7.0/sag-v0.7.0-aarch64-apple-darwin.tar.gz"
-  sha256 "f9b5d12967adf2b25e04fb34b55a5c377adaa3d49502cca0edebd4c9fc4959d3"
-  version "0.7.0"
+  url "https://github.com/rainbowatcher/sag/releases/download/v0.8.0/sag-v0.8.0-aarch64-apple-darwin.tar.gz"
+  sha256 "daef589004f64386cff342b8877cb9c3559365d3a088e5daddad4f5673eefeb3"
+  version "0.8.0"
 
   livecheck do
     url :stable
